@@ -1,0 +1,15 @@
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.csproj.AssemblyReference.cache
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.AssemblyInfoInputs.cache
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.AssemblyInfo.cs
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\bin\Debug\net7.0\salasanakayttajaharjoitus.exe
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\bin\Debug\net7.0\salasanakayttajaharjoitus.deps.json
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\bin\Debug\net7.0\salasanakayttajaharjoitus.runtimeconfig.json
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\bin\Debug\net7.0\salasanakayttajaharjoitus.dll
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\bin\Debug\net7.0\salasanakayttajaharjoitus.pdb
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.dll
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\refint\salasanakayttajaharjoitus.dll
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.pdb
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\salasanakayttajaharjoitus.genruntimeconfig.cache
+C:\Users\Flack\Desktop\⠀\Ohjelmointi projektit\Luento Koodit\salasanakayttajaharjoitus\obj\Debug\net7.0\ref\salasanakayttajaharjoitus.dll
